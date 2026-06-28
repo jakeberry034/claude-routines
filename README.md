@@ -1,4 +1,1 @@
 # claude-routines
-{
-  "effortLevel": "xhigh"
-}
